@@ -7,3 +7,6 @@
 [submodule "ArtisanDream.Tools"]
 	path = ArtisanDream.Tools
 	url = https://github.com/anthonyromrell/ArtisanDream.Tools
+[submodule "Tools"]
+	path = Tools
+	url = https://github.com/stevo222/Tools
