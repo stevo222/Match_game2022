@@ -1,0 +1,9 @@
+[submodule ":\\Users\\steph\\GitRepo\\Mathinggame-main\\Matchinggame1\\MathingGame22\\Matchinggame22"]
+	path = :\\Users\\steph\\GitRepo\\Mathinggame-main\\Matchinggame1\\MathingGame22\\Matchinggame22
+	url = https://github.com/anthonyromrell/ArtisanDream.Tools
+[submodule "Tools"]
+	path = Tools
+	url = https://github.com/stevo222/Tools
+[submodule ":\\Users\\steph\\GitRepo\\Mathinggame-main\\Matchinggame1\\MathingGame22\\Matchinggame22\\Assets"]
+	path = :\\Users\\steph\\GitRepo\\Mathinggame-main\\Matchinggame1\\MathingGame22\\Matchinggame22\\Assets
+	url = https://github.com/anthonyromrell/ArtisanDream.Tools
