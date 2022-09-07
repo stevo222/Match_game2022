@@ -8,6 +8,7 @@ using UnityEngine.Events;
 public class FloatData : ScriptableObject
 {
     public float value;
+    
     public UnityEvent onZeroEvent;
     
 
@@ -15,7 +16,11 @@ public class FloatData : ScriptableObject
     {
         value += num;
     }
-    
+
+    public void SetValue(float num)
+    {
+        value = num;
+    }
     public void DisplayImage(Image img)
     {
         if (value <= 0)
